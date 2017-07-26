@@ -1,0 +1,31 @@
+html, body{
+  margin:0 !important;
+  padding:0 !important;
+}
+
+header h1{
+	text-align: center;
+	background-image: url(http://2.bp.blogspot.com/-TlHF6r22Mlg/T_ieFuBcmvI/AAAAAAAABj8/4rqE30N5lXo/s1600/grass_2.jpg);
+        width: auto;
+	color: white;
+	padding:80px;
+	margin-top: 0;
+}
+iframe{
+	width: 854;
+	height: 480;
+	display: block;
+margin: 0 auto;
+}
+body {
+	background-image: url(http://www.zastavki.com/pictures/originals/2015/Backgrounds_Masonry_made_of_stone__background_103637_.jpg);
+    width: auto;
+    margin:0;
+    padding:0;
+}
+.embed-responsive-item
+table {
+	background: black;
+	color: ;
+}
+
